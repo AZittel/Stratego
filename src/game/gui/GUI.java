@@ -114,6 +114,7 @@ public class GUI {
       spielstueckAufdecken(verteidiger);
       centerPanel.paintImmediately(centerPanel.getBounds());
       mainFrame.repaint();
+      update();
       spielstueckAufdecken(angreifer);
       centerPanel.paintImmediately(centerPanel.getBounds());
       mainFrame.repaint();
