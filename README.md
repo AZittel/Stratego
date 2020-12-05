@@ -1,4 +1,4 @@
-#Stratego
+# Stratego
 
 <h3>How to run the code</h3>
 <p>Clone the repository to a directory on your machine</p>
