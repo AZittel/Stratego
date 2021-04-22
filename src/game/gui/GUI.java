@@ -115,15 +115,17 @@ public class GUI {
       centerPanel.paintImmediately(centerPanel.getBounds());
       mainFrame.repaint();
       update();
+      try {
+        Thread.sleep(1000);
+      } catch (InterruptedException e) {
+        e.printStackTrace();
+      }
       spielstueckAufdecken(angreifer);
       centerPanel.paintImmediately(centerPanel.getBounds());
       mainFrame.repaint();
       update();
-      try {
-        Thread.sleep(500);
-      } catch (InterruptedException e) {
-        e.printStackTrace();
-      }
+
+
       if (angreifer == gewinner) {
         saeubereZelle(zielLabel);
         verteidiger.besitzer.getArmee().entferneSpielstück(verteidiger);
@@ -165,6 +167,8 @@ public class GUI {
 
     informationsFeld.setCaretPosition(informationsFeld.getDocument().getLength());
     spielstueckAufFeld = null;
+    centerPanel.paintImmediately(centerPanel.getBounds());
+    mainFrame.repaint();
     update();
   }
 
