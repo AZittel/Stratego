@@ -20,4 +20,4 @@
 <p>This project was created on the initiative of a colleague and myself. In a lecture we illustrated Stratego from the game manual in various UML diagrams. 
 By our own initiative we converted these diagrams into a real Java program.</p>
 
-![gameplay](./screenshots/gameplay.png)
+![gameplay](https://raw.githubusercontent.com/Monogenesis/Stratego/main/screenshots/gameplay.png)
