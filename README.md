@@ -1,23 +1,18 @@
 # Stratego
 
-<h3>How to run the code</h3>
-<p>Clone the repository to a directory on your machine</p>
-<p>Execute the main from Spiel.java </p>
-<p>The application should now be running</p>
+Implemenation of the classic boardgame Stratego, written in Java.
 
-<h3>What I have learned</h3>
+## What I have learned
 <ul>
 
-<li>Java</li>
-<li>Working with Java Swing</li>
-<li>Object oriented programming</li>
+<li>Learning Java</li>
+<li>Learning Java Swing</li>
+<li>Usage of OOT</li>
 <li>Implementing a boardgame from scratch</li>
 
 </ul>
 
-<h3>Description</h3>
+## Screenshot
 
-<p>This project was created on the initiative of a colleague and myself. In a lecture we illustrated Stratego from the game manual in various UML diagrams. 
-By our own initiative we converted these diagrams into a real Java program.</p>
 
 ![gameplay](https://raw.githubusercontent.com/Monogenesis/Stratego/main/screenshots/gameplay.png)
