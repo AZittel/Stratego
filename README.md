@@ -9,7 +9,7 @@ In my first semesters in college we learned a lot about modeling techniques and 
 On our own initiative, a fellow student and I decided to develop the UML diagram modeled board game "Stratego" with Java as a playable computer game.
 
 
-## What I have learned
+## Lessons Learned
 <ul>
 
 <li>Learning Java</li>
