@@ -14,7 +14,7 @@ On our own initiative, a fellow student and I decided to develop the UML diagram
 
 <li>Learning Java</li>
 <li>Learning Java Swing</li>
-<li>Usage of OOT</li>
+<li>Usage of OOP</li>
 <li>Implementing a boardgame from scratch</li>
 
 </ul>
